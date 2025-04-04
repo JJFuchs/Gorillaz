@@ -1,5 +1,5 @@
 # Gorillaz
-SD2 Projekt, Gorillas (Retro Game)
+SD2 Projekt, Gorillas (Retro Game), Gruppe 5(AKA geiler als alle anderen)
 
 Gorillas ist ein Retro Game.
 Zwei Gorillas stehen sich auf einer Map (Urban Umgebung mit vielen Hochhäusern) gegenüber.
